@@ -8,6 +8,6 @@ public class sum_all {
         for (int i = 0; i < numbers.length; i++) {
             sum = sum + numbers[i];
         }
-        System.out.println(sum);
+     //   System.out.println(sum);
     }
 }
