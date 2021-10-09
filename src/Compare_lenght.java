@@ -15,6 +15,5 @@ public class Compare_lenght {
         int b = secondArrayOfNumbers.length;
         if (a>b){ System.out.println("First array is longer");}
         else {System.out.println("Secound array is longer");}
-        //commit try
     }
 }
